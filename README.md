@@ -10,9 +10,9 @@
 
 ###
 
-- 👨‍💻 Um dev em construção buscando oportunidades!
+- 👨‍💻 Um dev em construção!
 - 💻 Amante de tecnologias.
-- 💸 Curioso do Mercado Financeiro, Cryptos e NFTs.
+- 💸 Curioso do Mercado Financeiro.
 - 🎸 Apaixonado por música.
 
 <div style="display: inline_block" ><br>
